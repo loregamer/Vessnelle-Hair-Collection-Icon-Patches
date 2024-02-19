@@ -478,6 +478,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" />
 					<attribute id="BodyType" type="uint8" value="0" />
 					<attribute id="DisplayName" type="TranslatedString" handle="0bb34751-24bf-4371-80ae-1364b63f3d3c" version="1" />
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_5M"/>
 					<attribute id="RaceUUID" type="guid" value="0eb594cb-8820-4be6-8da5-e78ba9a1ba8f" />
 					<attribute id="SlotName" type="FixedString" value="Hair" />
 					<attribute id="UUID" type="guid" value="7cda7264-ced9-4d28-34ba-46d914cc0bac" />
@@ -497,6 +498,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" />
 					<attribute id="BodyType" type="uint8" value="0" />
 					<attribute id="DisplayName" type="TranslatedString" handle="0bb34751-24bf-4371-80ae-1364b63f3d3c" version="1" />
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_5M"/>
 					<attribute id="RaceUUID" type="guid" value="bdf9b779-002c-4077-77b3-a78efac195a7" />
 					<attribute id="SlotName" type="FixedString" value="Hair" />
 					<attribute id="UUID" type="guid" value="7651c17a-fbdf-4f5c-88a5-be9d91ec40bf" />
@@ -516,6 +518,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" />
 					<attribute id="BodyType" type="uint8" value="0" />
 					<attribute id="DisplayName" type="TranslatedString" handle="0bb34751-24bf-4371-80ae-1364b63f3d3c" version="1" />
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_5M"/>
 					<attribute id="RaceUUID" type="guid" value="6c038dcb-7eb5-431d-f884-cfce1caf5a0c" />
 					<attribute id="SlotName" type="FixedString" value="Hair" />
 					<attribute id="UUID" type="guid" value="245b0d32-4e9d-4b8b-7d97-c10e5e942ee8" />
@@ -535,6 +538,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" />
 					<attribute id="BodyType" type="uint8" value="0" />
 					<attribute id="DisplayName" type="TranslatedString" handle="0bb34751-24bf-4371-80ae-1364b63f3d3c" version="1" />
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_5M"/>
 					<attribute id="RaceUUID" type="guid" value="45f4ac10-3c89-4fb2-7db3-73f991bbc010" />
 					<attribute id="SlotName" type="FixedString" value="Hair" />
 					<attribute id="UUID" type="guid" value="08fa111d-97f3-4e1c-f79f-f303480ff72c" />
@@ -554,6 +558,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" />
 					<attribute id="BodyType" type="uint8" value="0" />
 					<attribute id="DisplayName" type="TranslatedString" handle="0bb34751-24bf-4371-80ae-1364b63f3d3c" version="1" />
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_5M"/>
 					<attribute id="RaceUUID" type="guid" value="4f5d1434-5175-4fa9-dcb7-24aba3fb2979" />
 					<attribute id="SlotName" type="FixedString" value="Hair" />
 					<attribute id="UUID" type="guid" value="326655fe-2059-4cfd-79b5-8e93019db87e" />
@@ -563,6 +568,7 @@
 					<attribute id="BodyShape" type="uint8" value="0" />
 					<attribute id="BodyType" type="uint8" value="0" />
 					<attribute id="DisplayName" type="TranslatedString" handle="0bb34751-24bf-4371-80ae-1364b63f3d3c" version="1" />
+					<attribute id="IconIdOverride" type="FixedString" value="0_Hair_5M"/>
 					<attribute id="RaceUUID" type="guid" value="b6dccbed-30f3-424b-81a1-54c4f30c9781" />
 					<attribute id="SlotName" type="FixedString" value="Hair" />
 					<attribute id="UUID" type="guid" value="d7b1bbb5-6f08-4536-69be-8d9977410f3c" />
