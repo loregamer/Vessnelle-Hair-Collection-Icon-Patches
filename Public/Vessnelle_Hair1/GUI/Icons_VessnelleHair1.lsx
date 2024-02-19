@@ -8,7 +8,7 @@
             and using these coordinates, otherwise the game (particularly if run through DirectX 11 instead of Vulkan) might not show your icons. -->
                 <!-- 1F -->
                 <node id="IconUV"> 1
-                    <attribute id="MapKey" type="FixedString" value="0_Hair_04f77f93-b638-4e6c-8e02-371d213c5673"/>
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_1F"/>
                     <attribute id="U1" type="float" value="6.1035156e-05"/>
                     <attribute id="U2" type="float" value="0.018249512"/>
                     <attribute id="V1" type="float" value="0.00012207031"/>
@@ -16,7 +16,7 @@
                 </node>
                 <!-- 2F -->
                 <node id="IconUV"> 2
-                    <attribute id="MapKey" type="FixedString" value="0_Hair_0f69c834-bf61-4f1b-80b6-8f730b76d3bd"/>
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_2F"/>
                     <attribute id="U1" type="float" value="0.018371582"/>	
                     <attribute id="U2" type="float" value="0.036560059"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
@@ -24,7 +24,7 @@
                 </node>
                 <!-- 3F -->
                 <node id="IconUV"> 3
-                    <attribute id="MapKey" type="FixedString" value="0_Hair_e022d88c-97eb-4593-be2b-6b78ec2208a5"/>
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_3F"/>
                     <attribute id="U1" type="float" value="0.036682129"/>	
                     <attribute id="U2" type="float" value="0.054870605"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
@@ -32,7 +32,7 @@
                 </node>
                 <!-- 4F -->
                 <node id="IconUV"> 4
-                    <attribute id="MapKey" type="FixedString" value="0_Hair_f8cc75cb-ed5f-4d30-811f-6085c155bae4"/>
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_4F"/>
                     <attribute id="U1" type="float" value="0.054992676"/>	
                     <attribute id="U2" type="float" value="0.073181152"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
@@ -40,7 +40,7 @@
                 </node>
                 <!-- 5F -->
                 <node id="IconUV"> 5
-                    <attribute id="MapKey" type="FixedString" value="0_Hair_3d30a53c-9056-47d4-a3b6-dca7e1dea7dc"/>
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_5F"/>
                     <attribute id="U1" type="float" value="0.073303223"/>	
                     <attribute id="U2" type="float" value="0.091491699"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
@@ -48,7 +48,7 @@
                 </node>
                 <!-- 6F -->
                 <node id="IconUV"> 6
-                    <attribute id="MapKey" type="FixedString" value="0_Hair_7d0fc542-fa59-4fb2-9114-2c267221281b"/>
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_6F"/>
                     <attribute id="U1" type="float" value="0.09161377"/>	
                     <attribute id="U2" type="float" value="0.10980225"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
