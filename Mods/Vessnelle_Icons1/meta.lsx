@@ -8,19 +8,19 @@
         <node id="ModuleInfo">
           <attribute id="Author" type="LSString" value="loregamer" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSWString" value="CC Icons for Vessnelle Hair Collection, Pack 1" />
+          <attribute id="Description" type="LSWString" value="CC Icons for Vessnelle Hair Pack 1" />
           <attribute id="Folder" type="LSString" value="Vessnelle_Icons1" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="LSString" value="Vessnelle CC Icons - Pack 1" />
+          <attribute id="Name" type="LSString" value="Vessnelle_Hair1 - Icon Patch" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
           <attribute id="Tags" type="LSString" value="" />
           <attribute id="Type" type="FixedString" value="Add-on" />
-          <attribute id="UUID" type="FixedString" value="fa020c89-54ae-427b-afe4-64e798a551ba" />
+          <attribute id="UUID" type="FixedString" value="a4c8deda-c028-43bd-97d1-ad4813c8bd5a" />
           <attribute id="Version64" type="int64" value="36029297386049870" />
           <children>
             <node id="PublishVersion">

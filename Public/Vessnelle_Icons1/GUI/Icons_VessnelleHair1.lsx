@@ -112,7 +112,7 @@
                 </node>
                 <node id="TextureAtlasPath">
                     <attribute id="Path" type="string" value="Public/Vessnelle_Icons1/Assets/Textures/Icons/Icons_VessnelleHair1.dds"/>
-                    <attribute id="UUID" type="FixedString" value="f521d1ff-e6fb-44f3-a3a3-ace0a9217f45"/>
+                    <attribute id="UUID" type="FixedString" value="df9c65e2-e042-4654-ae82-8d0a5dfdca3d"/>
                 </node>
                 <node id="TextureAtlasTextureSize">
                     <attribute id="Height" type="int32" value="4096"/>
