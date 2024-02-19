@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+<version major="4" minor="0" revision="8" build="613"/>
+	<region id="VisualBank">
+		<node id="VisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="68a28666-e1c0-4ec8-89e1-a51e102deefa" /> 
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair1F.gr2" /> 
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="dfa0f332-6a08-4ffb-b16d-43044053b584" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair1F.GR2" /> 
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair1F.Dummy_Root.0" /> 
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="be2cd39b-dca3-49d1-a795-b77ade9bfa36" /> 
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair1F.Vessnelle_Hair1F_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="6bab2775-955d-4fa5-a95c-bb403d99b1df" /> 
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair1M.gr2" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="dfa0f332-6a08-4ffb-b16d-43044053b584" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair1M.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair1M.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="be2cd39b-dca3-49d1-a795-b77ade9bfa36" />
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair1M.Vessnelle_Hair1M_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="e242a401-8b08-4b4c-8dc4-cbfa2a7e5fe5" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair1TM.gr2" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="dfa0f332-6a08-4ffb-b16d-43044053b584" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair1TM.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair1TM.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="be2cd39b-dca3-49d1-a795-b77ade9bfa36" />
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair1TM.Vessnelle_Hair1TM_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="ef46dc4a-5c0d-48d5-a951-958ed75b155b" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair2M.gr2" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="ef5346c7-e043-4b86-ae9b-1e19acbb4194" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair2M.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair2M.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="3f048f21-fda0-4c63-8f45-9e900c70112a" />
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair2M.Vessnelle_Hair2M_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="6f35a351-e80e-4123-987b-d50ce8e09bfe" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair3F.gr2" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="f011e333-0c85-48a6-bb18-2094c1f2d9ef" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair3F.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair3F.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="0fd5b560-ad7a-d997-08ab-dfb597eccbdc" />
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair3F.Vessnelle_Hair3F_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="22efde74-1178-4201-9763-1413beba2c6a" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair3M.gr2" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="f011e333-0c85-48a6-bb18-2094c1f2d9ef" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair3M.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair3M.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="0fd5b560-ad7a-d997-08ab-dfb597eccbdc" />
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair3M.Vessnelle_Hair3M_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="11eabcdd-d583-4c25-9ca3-8cd88962a573" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair4F.gr2" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="f011e333-0c85-48a6-bb18-2094c1f2d9ef" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair4F.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair4F.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="d69f0fce-e070-47f7-99a8-6c1d4e54a38a" />
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair4F.Vessnelle_Hair4F_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="91a64a04-5dba-4d47-b89e-dfa42813c646" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair4M.gr2" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="dfa0f332-6a08-4ffb-b16d-43044053b584" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair4M.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair4M.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4f8d9a29-c8b8-d048-305c-ca95ae84eacf" />
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair4M.Vessnelle_Hair4M_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="55a559bd-d453-4688-b35d-5497b8cbe357" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair4M.gr2" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="dfa0f332-6a08-4ffb-b16d-43044053b584" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair4MH.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair4MH.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4f8d9a29-c8b8-d048-305c-ca95ae84eacf" />
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair4MH.Vessnelle_Hair4MH_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="4707169d-fd1e-47ad-9269-2f91d7d332c0" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair5F.gr2" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="True" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="dfa0f332-6a08-4ffb-b16d-43044053b584" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair5F.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair5F.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="4b3cef4d-e101-4fa5-83a3-b16eea75aa34" />
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair5F.Vessnelle_Hair5F_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="7ae1c471-8737-4543-bc1d-eb9a00d7cbe7" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair5M.gr2" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="dfa0f332-6a08-4ffb-b16d-43044053b584" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair5M.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair5M.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="733a631b-97d7-419e-9731-53df08c6d6de" />
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair5M.Vessnelle_Hair5M_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AttachBone" type="FixedString" value="" />
+					<attribute id="AttachmentSkeletonResource" type="FixedString" value="" />
+					<attribute id="BlueprintInstanceResourceID" type="FixedString" value="" />
+					<attribute id="BoundsMax" type="fvec3" value="0.1644483 1.950027 0.1588906" />
+					<attribute id="BoundsMin" type="fvec3" value="-0.1682484 1.579714 -0.1309586" />
+					<attribute id="Center" type="fvec3" value="-0.00190004 1.764871 0.01396601" />
+					<attribute id="ClothColliderResourceID" type="FixedString" value="" />
+					<attribute id="HairPresetResourceId" type="FixedString" value="0455c5bd-0a3d-bd76-7495-b5c823837422" />
+					<attribute id="HairType" type="uint8" value="0" />
+					<attribute id="ID" type="FixedString" value="5f039677-3881-437f-b3ed-531c0f9b0fd4" />
+					<attribute id="Initialized" type="bool" value="True" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="MaterialType" type="uint8" value="0" />
+					<attribute id="Name" type="LSString" value="Vessnelle_Hair6F.gr2" />
+					<attribute id="NeedsSkeletonRemap" type="bool" value="False" />
+					<attribute id="Radius" type="float" value="0.2880241" />
+					<attribute id="ScalpMaterialId" type="FixedString" value="ef5346c7-e043-4b86-ae9b-1e19acbb4194" />
+					<attribute id="SkeletonResource" type="FixedString" value="" />
+					<attribute id="SkeletonSlot" type="FixedString" value="" />
+					<attribute id="Slot" type="FixedString" value="Hair" />
+					<attribute id="SoftbodyResourceID" type="FixedString" value="" />
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair6F.GR2" />
+					<attribute id="SupportsVertexColorMask" type="bool" value="False" />
+					<attribute id="Template" type="FixedString" value="Generated/Public/Vessnelle_Hair1/[PAK]_Vessnelle_Hair1/Vessnelle_Hair1/Vessnelle_Hair6F.Dummy_Root.0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Base" />
+						<node id="Objects">
+							<attribute id="LOD" type="uint8" value="0" />
+							<attribute id="MaterialID" type="FixedString" value="d69f0fce-e070-47f7-99a8-6c1d4e54a38a" />
+							<attribute id="ObjectID" type="FixedString" value="Vessnelle_Hair6F.Vessnelle_Hair6F_Mesh.0" />
+							<attribute id="Physics" type="FixedString" value="" />
+							<attribute id="Slot" type="FixedString" value="" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
