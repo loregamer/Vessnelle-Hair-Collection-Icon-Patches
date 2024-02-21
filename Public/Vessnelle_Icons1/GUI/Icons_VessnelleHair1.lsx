@@ -101,7 +101,7 @@
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_4MF"/>
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_4FM"/>
                     <attribute id="U1" type="float" value="0.2197876"/>		
                     <attribute id="U2" type="float" value="0.23797607"/>	
                     <attribute id="V1" type="float" value="0.00012207031"/>	
