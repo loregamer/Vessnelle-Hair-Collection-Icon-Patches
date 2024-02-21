@@ -100,6 +100,27 @@
                     <attribute id="V1" type="float" value="0.00012207031"/>	
                     <attribute id="V2" type="float" value="0.036499023"/>	
                 </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_4MF"/>
+                    <attribute id="U1" type="float" value="0.2197876"/>		
+                    <attribute id="U2" type="float" value="0.23797607"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_6FM"/>
+                    <attribute id="U1" type="float" value="0.23809814"/>	
+                    <attribute id="U2" type="float" value="0.25628662"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_3MF"/>
+                    <attribute id="U1" type="float" value="0.25640869"/>	
+                    <attribute id="U2" type="float" value="0.27459717"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
             </children>
         </node>
     </region>
