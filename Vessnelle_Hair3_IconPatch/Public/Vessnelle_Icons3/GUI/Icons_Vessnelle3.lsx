@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="329"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_13F"/>
+                    <attribute id="U1" type="float" value="6.1035156e-05"/>
+                    <attribute id="U2" type="float" value="0.018249512"/>
+                    <attribute id="V1" type="float" value="0.00012207031"/>
+                    <attribute id="V2" type="float" value="0.036499023"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_14F"/>
+                    <attribute id="U1" type="float" value="0.018371582"/>	
+                    <attribute id="U2" type="float" value="0.036560059"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_14Fver2"/>
+                    <attribute id="U1" type="float" value="0.036682129"/>	
+                    <attribute id="U2" type="float" value="0.054870605"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_13MF"/>
+                    <attribute id="U1" type="float" value="0.054992676"/>	
+                    <attribute id="U2" type="float" value="0.073181152"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_14MF"/>
+                    <attribute id="U1" type="float" value="0.073303223"/>	
+                    <attribute id="U2" type="float" value="0.091491699"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_15F"/>
+                    <attribute id="U1" type="float" value="0.09161377"/>	
+                    <attribute id="U2" type="float" value="0.10980225"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_16F"/>
+                    <attribute id="U1" type="float" value="0.10992432"/>	
+                    <attribute id="U2" type="float" value="0.12811279"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_17F"/>
+                    <attribute id="U1" type="float" value="0.12823486"/>	
+                    <attribute id="U2" type="float" value="0.14642334"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_18F"/>
+                    <attribute id="U1" type="float" value="0.14654541"/>	
+                    <attribute id="U2" type="float" value="0.16473389"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_13M"/>
+                    <attribute id="U1" type="float" value="0.16485596"/>	
+                    <attribute id="U2" type="float" value="0.18304443"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_14M"/>
+                    <attribute id="U1" type="float" value="0.1831665"/>		
+                    <attribute id="U2" type="float" value="0.20135498"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_15M"/>
+                    <attribute id="U1" type="float" value="0.20147705"/>	
+                    <attribute id="U2" type="float" value="0.21966553"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_16M"/>
+                    <attribute id="U1" type="float" value="0.2197876"/>		
+                    <attribute id="U2" type="float" value="0.23797607"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_17M"/>
+                    <attribute id="U1" type="float" value="0.23809814"/>	
+                    <attribute id="U2" type="float" value="0.25628662"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_18M"/>
+                    <attribute id="U1" type="float" value="0.25640869"/>	
+                    <attribute id="U2" type="float" value="0.27459717"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_19F"/>
+                    <attribute id="U1" type="float" value="0.27471924"/>	
+                    <attribute id="U2" type="float" value="0.29290771"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_20F"/>
+                    <attribute id="U1" type="float" value="0.29302979"/>	
+                    <attribute id="U2" type="float" value="0.31121826"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_19M"/>
+                    <attribute id="U1" type="float" value="0.31134033"/>	
+                    <attribute id="U2" type="float" value="0.32952881"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Vessnelle_Hair_20M"/>
+                    <attribute id="U1" type="float" value="0.32965088"/>	
+                    <attribute id="U2" type="float" value="0.34783936"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="150"/>
+                    <attribute id="Width" type="int32" value="150"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Public/Vessnelle_Icons3/Assets/Textures/Icons/Icons_Vessnelle3.dds"/>
+                    <attribute id="UUID" type="FixedString" value="9516617e-0494-4763-981b-21f6de786762"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="4096"/>
+                    <attribute id="Width" type="int32" value="8192"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

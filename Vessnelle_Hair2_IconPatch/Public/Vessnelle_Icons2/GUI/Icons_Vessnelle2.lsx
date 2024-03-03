@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="329"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <!-- 7F -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="1_Hair_dec2effb-c533-4faa-9cf1-b2a2a2025227"/>
+                    <attribute id="U1" type="float" value="6.1035156e-05"/>
+                    <attribute id="U2" type="float" value="0.018249512"/>
+                    <attribute id="V1" type="float" value="0.00012207031"/>
+                    <attribute id="V2" type="float" value="0.036499023"/>
+                </node>
+                <!-- 8F -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="1_Hair_cf2d6fe6-ecdb-4e9b-b961-869f170fbebb"/>
+                    <attribute id="U1" type="float" value="0.018371582"/>	
+                    <attribute id="U2" type="float" value="0.036560059"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- 9F -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="1_Hair_55ae2521-ff92-444c-b376-8ecc035b670f"/>
+                    <attribute id="U1" type="float" value="0.036682129"/>	
+                    <attribute id="U2" type="float" value="0.054870605"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- 10F -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_ff32f472-0741-4485-90c0-5a96a06eb1a6"/>
+                    <attribute id="U1" type="float" value="0.054992676"/>	
+                    <attribute id="U2" type="float" value="0.073181152"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- 11F -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_8b41d758-b01f-4fc9-9c8a-9e511891d486"/>
+                    <attribute id="U1" type="float" value="0.073303223"/>	
+                    <attribute id="U2" type="float" value="0.091491699"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- 12F -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_7fa00a80-4cbf-4291-87c5-724783b50636"/>
+                    <attribute id="U1" type="float" value="0.09161377"/>	
+                    <attribute id="U2" type="float" value="0.10980225"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- 7M -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_dec2effb-c533-4faa-9cf1-b2a2a2025227"/>
+                    <attribute id="U1" type="float" value="0.10992432"/>	
+                    <attribute id="U2" type="float" value="0.12811279"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- 8M -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_cf2d6fe6-ecdb-4e9b-b961-869f170fbebb"/>
+                    <attribute id="U1" type="float" value="0.12823486"/>	
+                    <attribute id="U2" type="float" value="0.14642334"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- 9M -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_55ae2521-ff92-444c-b376-8ecc035b670f"/>
+                    <attribute id="U1" type="float" value="0.14654541"/>	
+                    <attribute id="U2" type="float" value="0.16473389"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- 10M -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_ff32f472-0741-4485-90c0-5a96a06eb1a6M"/>
+                    <attribute id="U1" type="float" value="0.16485596"/>	
+                    <attribute id="U2" type="float" value="0.18304443"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- 11M -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_8b41d758-b01f-4fc9-9c8a-9e511891d486M"/>
+                    <attribute id="U1" type="float" value="0.1831665"/>		
+                    <attribute id="U2" type="float" value="0.20135498"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- 12M -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_7fa00a80-4cbf-4291-87c5-724783b50636M"/>
+                    <attribute id="U1" type="float" value="0.20147705"/>	
+                    <attribute id="U2" type="float" value="0.21966553"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- 7Mv2 -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="0_Hair_f3f5b29a-2f80-4863-8362-bbc890c40176"/>
+                    <attribute id="U1" type="float" value="0.2197876"/>		
+                    <attribute id="U2" type="float" value="0.23797607"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+                <!-- MF9 -->
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="1_Hair_55ae2521-ff92-444c-b376-8ecc035b6709fM"/>
+                    <attribute id="U1" type="float" value="0.23809814"/>	
+                    <attribute id="U2" type="float" value="0.25628662"/>	
+                    <attribute id="V1" type="float" value="0.00012207031"/>	
+                    <attribute id="V2" type="float" value="0.036499023"/>	
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="150"/>
+                    <attribute id="Width" type="int32" value="150"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Public/Vessnelle_Icons2/Assets/Textures/Icons/Icons_Vessnelle2.dds"/>
+                    <attribute id="UUID" type="FixedString" value="e1457288-46fd-4051-9375-c8c8fa3d8fa3"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="4096"/>
+                    <attribute id="Width" type="int32" value="8192"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
